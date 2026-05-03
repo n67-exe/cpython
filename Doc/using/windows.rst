@@ -965,6 +965,9 @@ default).
    * - Symptom
      - Things to try
 
+   * - Python Install Manager fails to install.
+     - Close all IDEs and other applications that might be related to Python.
+
    * - ``python`` gives me a "command not found" error or opens the Store app
        when I type it in my terminal.
      - Did you :ref:`install the Python install manager <pymanager>`?
