@@ -40,7 +40,8 @@ This provides isolation between projects, consistency over time, and ensures
 that additional commands added by packages are also available in your session.
 Create a virtual environment using ``python -m venv <env path>``.
 
-If the ``python`` or ``py`` commands do not seem to be working, please see the
+If the ``python`` or ``py`` commands do not seem to be working
+or if Python Install Manager fails to install, please see the
 :ref:`Troubleshooting <pymanager-troubleshoot>` section below. There are
 sometimes additional manual steps required to configure your PC.
 
